@@ -2,9 +2,9 @@
 ## Bem vindo ao meu perfil GitHub 👋
 
 - 🔭 Atualmente estou trabalhando como desenvolvedora front-end.
-- 🌱 Atualmente estou aprendendo um pouco mais sobre VTEX IO e me especializando em JS e seus frameworks.
+- 🌱 Estou aprendendo um pouco mais sobre VTEX IO e me especializando em JS e seus frameworks, e tudo que envolva Desenvolvimento Web.
 - 😄 Pronomes: Ela/Dela
-- ⚡ Curiosidade: Sou estudante de francês e tenho uma enorme paixão pela cultura francesa, no geral sou uma leitora muito entusiasta e com um toque de alma cinéfila nas horas vagas. Ah, eu também toco guitarra pra me distrair!!
+- ⚡ Curiosidade: Sou estudante de francês e tenho uma enorme paixão pela cultura francesa... Um pouco cinéfila e amante da literatura. Ah, eu também toco guitarra pra me distrair!!
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
