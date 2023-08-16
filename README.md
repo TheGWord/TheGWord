@@ -4,6 +4,7 @@
 - 🔭 Atualmente estou trabalhando como desenvolvedora front-end.
 - 🌱 Estou aprendendo um pouco mais sobre VTEX IO e me especializando em JS e seus frameworks, e tudo que envolva Desenvolvimento Web.
 - 😄 Pronomes: Ela/Dela
+- 🌈 Sexualidade: Panssexual 🏳‍🌈
 - ⚡ Curiosidade: Sou estudante de francês e tenho uma enorme paixão pela cultura francesa... Um pouco cinéfila e amante da literatura. Ah, eu também toco guitarra pra me distrair!!
 
 <h3 align="left">Languages and Tools:</h3>
